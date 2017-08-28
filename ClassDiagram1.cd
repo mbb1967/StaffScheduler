@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StaffScheduler.StaffSchedulerModel">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StaffSchedulerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaffScheduler.EFAppointment">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEEAAgAAAAAIYAAAAgAAAAAIAAAQEAAEAAAAA=</HashCode>
+      <FileName>StaffSchedulerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaffScheduler.EFResource">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>StaffSchedulerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaffScheduler.SchedulerDBInitializer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StaffSchedulerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
